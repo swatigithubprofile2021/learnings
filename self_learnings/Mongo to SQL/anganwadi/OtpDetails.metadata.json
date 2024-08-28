@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"anganwadi.OtpDetails"},{"v":{"$numberInt":"2"},"key":{"mobileNumber":{"$numberInt":"1"}},"name":"mobileNumber_1","sparse":false,"ns":"anganwadi.OtpDetails"}],"uuid":"e3e2cea82410413d9ae5506c90190855","collectionName":"OtpDetails","type":"collection"}

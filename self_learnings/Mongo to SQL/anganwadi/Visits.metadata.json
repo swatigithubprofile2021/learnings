@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"anganwadi.Visits"}],"uuid":"f94bf6a8dd354181b213055b2c24147f","collectionName":"Visits","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"anganwadi.AssetsStock"}],"uuid":"823e42c7e8b0489080a02b49894f3372","collectionName":"AssetsStock","type":"collection"}
